@@ -1,0 +1,10 @@
+.container-fluid a:hover{
+    color:rgb(248, 21, 21);
+}
+#Contact:hover{
+    color:rgb(248, 21, 21);
+}
+.cardhead{
+    text-align: center;
+    
+}
